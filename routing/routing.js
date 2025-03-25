@@ -31,6 +31,6 @@ const requestRouting = (request, response) => {
   }
 };
 
-nodule.exports = {
+module.exports = {
   requestRouting,
 };

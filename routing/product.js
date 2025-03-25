@@ -106,6 +106,7 @@ function addNewProduct(request, response) {
 }
 
 module.exports = {
+  productRouting,
   renderNewestProductPage,
   addNewProduct,
 };
